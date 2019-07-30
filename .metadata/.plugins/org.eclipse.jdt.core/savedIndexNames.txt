@@ -1,2 +1,2 @@
-INDEX VERSION 1.131+/Users/lukecolpo/Documents/workspace-spring-tool-suite-4-4.3.1.RELEASE/.metadata/.plugins/org.eclipse.jdt.core
+INDEX VERSION 1.131+/Users/lukecolpo/Documents/spring_tutorial/.metadata/.plugins/org.eclipse.jdt.core
 1178721467.index
